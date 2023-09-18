@@ -1,9 +1,10 @@
 package fizzbuzz_test
 
 import (
-	"fizzbuzz"
 	"fmt"
 	"testing"
+
+	"github.com/tomo8332/codelabs/sources/tdd-go/1_fizzbuzz_start/gopath/src/fizzbuzz"
 )
 
 func TestConvert(t *testing.T) {
